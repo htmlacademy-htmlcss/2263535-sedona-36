@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Антонина Шалабанова](https://up.htmlacademy.ru/htmlcss/36/user/2263535).
-* Наставник: [Сергей Зубов] (https://htmlacademy.ru/profile/serj)
+* Наставник: [Сергей Зубов](https://htmlacademy.ru/profile/serj)
 
 ---
 
